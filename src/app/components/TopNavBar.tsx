@@ -22,7 +22,7 @@ export const TopNavBar = () => {
           <h1 className="sr-only">Way2Hire</h1>
           /*<Image
             src={logoSrc}
-            alt="OpenResume Logo"
+            alt="Way2Hire"
             className="h-8 w-full"
             priority
           />*/
